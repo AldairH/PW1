@@ -5,4 +5,22 @@ table,th, td {
 
 .encabezado {
     text-align: center;
+    color: white;
+    background-color: #006ba6;
+}
+
+.programación{
+    background-color: #d81159;
+}
+
+.areaDeSociales{
+    background-color: #ffbc42 ;
+}
+
+.circuitos{
+    background-color: #0496ff;
+}
+
+.horaLibre{
+    background-color: #F5E8D2;
 }
