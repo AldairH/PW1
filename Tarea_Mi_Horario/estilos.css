@@ -1,0 +1,8 @@
+table,th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+.encabezado {
+    text-align: center;
+}
